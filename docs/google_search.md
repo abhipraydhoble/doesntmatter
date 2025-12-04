@@ -3,6 +3,7 @@
 Use the Google Search API to search the web in Chatbot UI.
 
 ## How To Enable
+0. https://platform.openai.com/chat
 
 1. Create a new project at https://console.developers.google.com/apis/dashboard
 
