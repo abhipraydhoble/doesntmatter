@@ -249,13 +249,10 @@ sudo chmod 777 /var/run/docker.sock
 
 These are similar to what you’ll get:
 
-### 🔹 Trivy Scan Output
-
-*(example)* <img width="100%" src="https://github.com/user-attachments/assets/ba9b2a7e-0e58-448f-9f24-4a00e5d1efd0"/>
 
 ### 🔹 SonarQube Report
+<img width="1918" height="881" alt="image" src="https://github.com/user-attachments/assets/0c8a2945-8d78-485c-a5d6-65993ed6e838" />
 
-<img width="100%" src="https://github.com/user-attachments/assets/df9e8a1e-f903-4be8-8d5a-97af04f16ca4"/>
 
 ### 🔹 Running ChatGPT App 🍀
 
