@@ -1,5 +1,5 @@
 
-# 🚀 **Deploy Chat-GPT Clone App on Docker using Jenkins – DevSecOps Project**
+# 🚀 **Chat-GPT Project**
 
 <div align="center">
 
